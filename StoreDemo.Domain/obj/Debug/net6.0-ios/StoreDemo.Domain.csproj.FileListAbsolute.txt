@@ -1,0 +1,39 @@
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\bin\Debug\net6.0-ios\StoreDemo.Domain.dll
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\bin\Debug\net6.0-ios\StoreDemo.Domain.pdb
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\build-signature\signature
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\actool\_PartialAppManifest.items
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\actool\_BundleResourceWithLogicalName.items
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\actool\_ProcessedImageAssetsPath.items
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\coremlc\_PartialAppManifest.items
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\_ProcessedBundleResourcesPath.items
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\_ProcessedContentPath.items
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\StoreDemo.Domain.csproj.AssemblyReference.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\StoreDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\StoreDemo.Domain.AssemblyInfoInputs.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\StoreDemo.Domain.AssemblyInfo.cs
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\StoreDemo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\StoreDemo.Domain.dll
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\refint\StoreDemo.Domain.dll
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\StoreDemo.Domain.pdb
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\ref\StoreDemo.Domain.dll
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\bin\Debug\net6.0-ios\StoreDemo.Domain.dll
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\bin\Debug\net6.0-ios\StoreDemo.Domain.pdb
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\actool\_PartialAppManifest.items
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\actool\_BundleResourceWithLogicalName.items
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\actool\_ProcessedImageAssetsPath.items
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\coremlc\_PartialAppManifest.items
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\_ProcessedBundleResourcesPath.items
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\_ProcessedContentPath.items
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\StoreDemo.Domain.csproj.AssemblyReference.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\StoreDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\StoreDemo.Domain.AssemblyInfoInputs.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\StoreDemo.Domain.AssemblyInfo.cs
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\StoreDemo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\StoreDemo.Domain.dll
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\refint\StoreDemo.Domain.dll
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\StoreDemo.Domain.pdb
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-ios\ref\StoreDemo.Domain.dll

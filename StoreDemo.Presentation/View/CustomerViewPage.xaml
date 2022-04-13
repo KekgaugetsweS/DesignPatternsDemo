@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StoreDemo.Presentation.CustomerViewPage"
+             Title="CustomerViewPage"
+             BackgroundColor="White">
+    <StackLayout>
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="10"/>
+                <ColumnDefinition Width="10" />
+            </Grid.ColumnDefinitions>
+        </Grid>
+        <Label Text="Welcome to .NET MAUI!"
+                VerticalOptions="Center" 
+                HorizontalOptions="Center" />
+
+        
+        
+        <StackLayout Grid.Row="0"  Orientation="Horizontal">
+            <Label x:Name="custLabe"  Grid.Column="0" Text="Customer Type" TextColor="Black" HorizontalOptions="Start" VerticalOptions="CenterAndExpand"/>
+            <Picker x:Name="custType"  Grid.Column="2"  Margin="30,0,30,0"  Title="--Select--"  HorizontalOptions="FillAndExpand" SelectedIndexChanged="custType_SelectedIndexChanged" />
+        </StackLayout>
+        
+        <StackLayout Orientation="Horizontal">
+            <Label x:Name="custName" Text="Customer Name" TextColor="Black" HorizontalOptions="Start" VerticalOptions="CenterAndExpand"/>
+            <Entry x:Name="CustomerNameEntry" HorizontalOptions="FillAndExpand" />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label x:Name="PhoneNumLabel" Text="Phone number" TextColor="Black" HorizontalOptions="Start" VerticalOptions="CenterAndExpand"/>
+            <Entry x:Name="PhoneNumberEntry" HorizontalOptions="FillAndExpand" />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label x:Name="BillAmountLabel" Text="Bill Amount" TextColor="Black" HorizontalOptions="Start" VerticalOptions="CenterAndExpand"/>
+            <Entry x:Name="BillAmountENtry" HorizontalOptions="FillAndExpand" />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label x:Name="BDLabel" Text="Bill Date" TextColor="Black" HorizontalOptions="Start" VerticalOptions="CenterAndExpand"/>
+            <Entry x:Name="BillDateEntry" HorizontalOptions="FillAndExpand" />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label x:Name="AddressLabel" Text="Address" TextColor="Black" HorizontalOptions="Start" VerticalOptions="CenterAndExpand"/>
+            <Entry x:Name="AddressEntry" HorizontalOptions="FillAndExpand" />
+        </StackLayout>
+
+        <Button x:Name="btnValidate_Click"  Text="Validate" FontAttributes="Bold" Clicked="btnValidate_Click_Clicked"/>
+
+        
+
+    </StackLayout>
+
+    
+</ContentPage>

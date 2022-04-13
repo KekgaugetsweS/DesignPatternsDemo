@@ -1,0 +1,38 @@
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\bin\Debug\net6.0-maccatalyst\StoreDemo.Domain.dll
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\bin\Debug\net6.0-maccatalyst\StoreDemo.Domain.pdb
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\actool\_PartialAppManifest.items
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\actool\_BundleResourceWithLogicalName.items
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\actool\_ProcessedImageAssetsPath.items
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\coremlc\_PartialAppManifest.items
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\_ProcessedBundleResourcesPath.items
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\_ProcessedContentPath.items
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\StoreDemo.Domain.csproj.AssemblyReference.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\StoreDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\StoreDemo.Domain.AssemblyInfoInputs.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\StoreDemo.Domain.AssemblyInfo.cs
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\StoreDemo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\StoreDemo.Domain.dll
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\refint\StoreDemo.Domain.dll
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\StoreDemo.Domain.pdb
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\ref\StoreDemo.Domain.dll
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\bin\Debug\net6.0-maccatalyst\StoreDemo.Domain.dll
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\bin\Debug\net6.0-maccatalyst\StoreDemo.Domain.pdb
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\actool\_PartialAppManifest.items
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\actool\_BundleResourceWithLogicalName.items
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\actool\_ProcessedImageAssetsPath.items
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\coremlc\_PartialAppManifest.items
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\_ProcessedBundleResourcesPath.items
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\_ProcessedContentPath.items
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\StoreDemo.Domain.csproj.AssemblyReference.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\StoreDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\StoreDemo.Domain.AssemblyInfoInputs.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\StoreDemo.Domain.AssemblyInfo.cs
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\StoreDemo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\StoreDemo.Domain.dll
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\refint\StoreDemo.Domain.dll
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\StoreDemo.Domain.pdb
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Domain\obj\Debug\net6.0-maccatalyst\ref\StoreDemo.Domain.dll

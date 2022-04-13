@@ -1,0 +1,132 @@
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\bin\Debug\net6.0-android\StoreDemo.Infrastructure.aar
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\bin\Debug\net6.0-android\StoreDemo.Infrastructure.dll
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\bin\Debug\net6.0-android\StoreDemo.Infrastructure.pdb
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\bin\Debug\net6.0-android\StoreDemo.Infrastructure.apk
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\bin\Debug\net6.0-android\StoreDemo.Infrastructure.aab
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\bin\Debug\net6.0-android\StoreDemo.Infrastructure-Signed.aab
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\bin\Debug\net6.0-android\StoreDemo.Infrastructure-Signed.apk
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\bin\Debug\net6.0-android\StoreDemo.Infrastructure-Signed.apk.idsig
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\bin\Debug\net6.0-android\StoreDemo.Domain.dll
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\bin\Debug\net6.0-android\StoreDemo.Domain.pdb
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\bin\Debug\net6.0-android\StoreDemo.Domain.xml
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\build.props
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\adb.props
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\StoreDemo.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\res.flag
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\70\jl\files.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\71\jl\files.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\72\jl\files.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\76\jl\files.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\77\jl\files.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\78\jl\files.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\82\jl\files.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\83\jl\files.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\84\jl\files.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\88\jl\files.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\94\jl\files.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\96\jl\files.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\97\jl\files.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\98\jl\files.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\99\jl\files.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\100\jl\files.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\101\jl\files.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\102\jl\files.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\105\jl\files.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\106\jl\files.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\107\jl\files.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\108\jl\files.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\109\jl\files.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\115\jl\files.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\117\jl\files.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\119\jl\files.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\120\jl\files.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\123\jl\files.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\124\jl\files.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\R.txt
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\R.cs.flag
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\StoreDemo.Infrastructure.aar.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\StoreDemo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\StoreDemo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\StoreDemo.Infrastructure.AssemblyInfo.cs
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\StoreDemo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\StoreDemo.Infrastructure.csproj.CopyComplete
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\StoreDemo.Infrastructure.dll
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\refint\StoreDemo.Infrastructure.dll
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\StoreDemo.Infrastructure.pdb
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\ref\StoreDemo.Infrastructure.dll
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\android\bin\StoreDemo.Infrastructure.apk
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\android\bin\base.zip
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\android\bin\StoreDemo.Infrastructure.aab
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\android\bin\StoreDemo.Infrastructure.apks
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\uploadflags.txt
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\stamp\_CleanIntermediateIfNeeded.stamp
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\stamp\_ConvertResourcesCases.stamp
+C:\Users\Kekgaugetswe\Documents\Doosy_Projects\MAUI template\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\bin\Debug\net6.0-android\StoreDemo.Infrastructure.aar
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\bin\Debug\net6.0-android\StoreDemo.Infrastructure.dll
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\bin\Debug\net6.0-android\StoreDemo.Infrastructure.pdb
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\bin\Debug\net6.0-android\StoreDemo.Infrastructure.apk
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\bin\Debug\net6.0-android\StoreDemo.Infrastructure.aab
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\bin\Debug\net6.0-android\StoreDemo.Infrastructure-Signed.aab
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\bin\Debug\net6.0-android\StoreDemo.Infrastructure-Signed.apk
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\bin\Debug\net6.0-android\StoreDemo.Infrastructure-Signed.apk.idsig
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\bin\Debug\net6.0-android\StoreDemo.Domain.dll
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\bin\Debug\net6.0-android\StoreDemo.Domain.pdb
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\bin\Debug\net6.0-android\StoreDemo.Domain.xml
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\build.props
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\adb.props
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\StoreDemo.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\res.flag
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\70\jl\files.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\71\jl\files.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\72\jl\files.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\76\jl\files.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\77\jl\files.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\78\jl\files.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\82\jl\files.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\83\jl\files.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\84\jl\files.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\88\jl\files.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\94\jl\files.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\96\jl\files.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\97\jl\files.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\98\jl\files.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\99\jl\files.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\100\jl\files.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\101\jl\files.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\102\jl\files.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\105\jl\files.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\106\jl\files.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\107\jl\files.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\108\jl\files.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\109\jl\files.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\115\jl\files.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\117\jl\files.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\119\jl\files.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\120\jl\files.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\123\jl\files.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\lp\124\jl\files.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\R.txt
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\R.cs.flag
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\StoreDemo.Infrastructure.aar.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\StoreDemo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\StoreDemo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\StoreDemo.Infrastructure.AssemblyInfo.cs
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\StoreDemo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\StoreDemo.Infrastructure.csproj.CopyComplete
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\StoreDemo.Infrastructure.dll
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\refint\StoreDemo.Infrastructure.dll
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\StoreDemo.Infrastructure.pdb
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\ref\StoreDemo.Infrastructure.dll
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\android\bin\StoreDemo.Infrastructure.apk
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\android\bin\base.zip
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\android\bin\StoreDemo.Infrastructure.aab
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\android\bin\StoreDemo.Infrastructure.apks
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\uploadflags.txt
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\stamp\_CleanIntermediateIfNeeded.stamp
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\stamp\_ConvertResourcesCases.stamp
+C:\Users\Kekgaugetswe\Desktop\StoreDemo.Presentation\StoreDemo.Infrastructure\obj\Debug\net6.0-android\stamp\_ResolveLibraryProjectImports.stamp
